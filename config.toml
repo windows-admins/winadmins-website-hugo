@@ -10,9 +10,38 @@ theme = "hello-friend-ng"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Geeks talking about (almost) everything"
 
   disableReadOtherPosts = true
 
   enableSharingButtons = true
 
+  giturl = "https://github.com/Windows-Admins/winadmins-hugo/"
+
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Hello World"
+
+[params.logo]
+  logoMark     = ""
+  logoText     = "$WinAdmins"
+  logoHomeLink = "/"
+
+[[menu.main]]
+  name       = "Discord"
+  url        = "https://discord.gg/winadmins"
+  weight     = 1
+
+[[menu.main]]
+  name       = "Guidelines"
+  url        = "/community-rules"
+  weight     = 2
+
+[[menu.main]]
+  name       = "Resources"
+  url        = "/community-resources"
+  weight     = 3
+
+[[menu.main]]
+  name       = "Events"
+  url        = "/upcoming-events"
+  weight     = 4
