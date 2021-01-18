@@ -9,17 +9,15 @@ theme = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Subtitle for home
-  homeSubtitle = "Geeks talking about (almost) everything"
-
   disableReadOtherPosts = true
-
   enableSharingButtons = true
 
   giturl = "https://github.com/Windows-Admins/winadmins-hugo/"
 
   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  footerRight = "Hello World"
+  footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+
+  customCSS = ["css/overrides.css"]
 
 [params.logo]
   logoMark     = ""
