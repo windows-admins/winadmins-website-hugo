@@ -1,3 +1,18 @@
-baseURL = "http://example.org/"
+baseURL = "http://winadmins.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "WinAdmins Community Website"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "2016-Jan-02"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "A simple and beautiful blog"
+
+  disableReadOtherPosts = true
+
+  enableSharingButtons = true
+
