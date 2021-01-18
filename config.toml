@@ -17,7 +17,7 @@ theme = "hello-friend-ng"
   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
-  customCSS = ["css/overrides.css"]
+  customCSS = ["/css/overrides.css"]
 
 [params.logo]
   logoMark     = ""
