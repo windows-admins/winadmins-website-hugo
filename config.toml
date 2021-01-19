@@ -1,3 +1,53 @@
-baseURL = "http://example.org/"
+baseURL = "http://winadmins.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "WinAdmins Community Website"
+theme = "hello-friend-ng"
+disableKinds = ["RSS"]
+
+[Author]
+  name = "WinAdmins Community"
+
+[params]
+  dateform        = "2016-Jan-02"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  disableReadOtherPosts = true
+  enableSharingButtons = true
+
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+
+  customCSS = ["/css/overrides.css"]
+  customJS = ["https://kit.fontawesome.com/bc4aa9aa86.js"]
+
+[params.logo]
+  logoMark     = ""
+  logoText     = "$WinAdmins"
+  logoHomeLink = "/"
+
+[[menu.main]]
+  name       = "Discord"
+  url        = "https://discord.gg/winadmins"
+  weight     = 1
+
+[[menu.main]]
+  name       = "About Us"
+  url        = "/about-us"
+  weight     = 2
+
+[[menu.main]]
+  name       = "Guidelines"
+  url        = "/community-rules"
+  weight     = 3
+
+[[menu.main]]
+  name       = "Resources"
+  url        = "/community-resources"
+  weight     = 4
+
+[[menu.main]]
+  name       = "Events"
+  url        = "/upcoming-events"
+  weight     = 5

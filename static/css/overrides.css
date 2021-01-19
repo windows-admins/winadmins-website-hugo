@@ -1,0 +1,12 @@
+.content {
+    justify-content: start;
+}
+
+.post-content table { margin: 0px; width: 100%; }
+
+.post li a { color: blue; text-decoration: none; }
+.post li a:visited { color: blue; text-decoration: none; }
+.post li a:active { color: blue; text-decoration: none; }
+.post li a:hover { color: blue; text-decoration: underline; }
+
+

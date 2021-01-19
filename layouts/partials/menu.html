@@ -1,0 +1,16 @@
+<nav class="menu">
+    <ul class="menu__inner">
+        <li>
+            <a href="https://twitter.com/WinAdmins">
+                <i class="fab fa-twitter-square fa-lg"></i>
+            </a>
+            <a href="https://github.com/windows-admins">
+                <i class="fab fa-github-square fa-lg"></i>    
+            </a>
+        </li>
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main.ByWeight -}}
+            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+        {{- end }}
+    </ul>
+</nav>
