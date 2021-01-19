@@ -1,4 +1,4 @@
-baseURL = "http://winadmins.io/"
+baseURL = "https://windows-admins.github.io/winadmins-website/"
 languageCode = "en-us"
 title = "WinAdmins Community Website"
 theme = "hello-friend-ng"
