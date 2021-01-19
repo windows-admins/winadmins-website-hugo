@@ -7,9 +7,6 @@ aliases: ["/resources/"]
 
 The following links are provided as-is and their inclusion here does not imply that they are reviewed or recommended by anyone in the WinAdmins community, nor does it imply that the owners of any of the following blogs or resources are members of the WinAdmins community.
 
-Want to add your own?  Submit a Pull Request to [this GitHub repository](https://github.com/windows-admins/winadmins-website-hugo)!
-
-
 # Configuration Manager
 
 *   [A Square Dozen (Adam Gross, MVP)](https://www.asquaredozen.com/)
