@@ -13,7 +13,7 @@ The organizers and administrators are responsible for the day to day work of Win
 
 Name|Handle|Functions
 -|-|-
-Anthony|@krbtgt|Discord Admin and Twitter Admin
+Anthony|@krbtgt|Discord Admin & Twitter Admin
 Chris|@Praetorian|Discord Admin & Webmaster
 Jóhannes|@jgkps|Discord Owner
 Jordan|@JordanTheITGuy|Discord Admin & Bot Admin
