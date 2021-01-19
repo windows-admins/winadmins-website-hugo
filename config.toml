@@ -4,6 +4,9 @@ title = "WinAdmins Community Website"
 theme = "hello-friend-ng"
 disableKinds = ["RSS"]
 
+[Author]
+  name = "WinAdmins Community"
+
 [params]
   dateform        = "2016-Jan-02"
   dateformShort   = "Jan 2"
