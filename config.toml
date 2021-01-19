@@ -2,6 +2,7 @@ baseURL = "http://winadmins.io/"
 languageCode = "en-us"
 title = "WinAdmins Community Website"
 theme = "hello-friend-ng"
+disableKinds = ["RSS"]
 
 [params]
   dateform        = "2016-Jan-02"
