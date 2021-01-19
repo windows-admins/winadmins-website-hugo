@@ -1,5 +1,5 @@
 ---
-title: "Assests"
+title: "Assets"
 date: 2021-01-19T11:04:41-05:00
 draft: false
 ---
