@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-18.04
-    if: github.repository == 'windows-admins/winadmins-website/winadmins-website-hugo'
+    if: github.repository == 'windows-admins/winadmins-website-hugo'
     steps:
       - uses: actions/checkout@v2
         with:
