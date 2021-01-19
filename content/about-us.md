@@ -19,3 +19,16 @@ Jóhannes|@jgkps|Discord Owner
 Jordan|@JordanTheITGuy|Discord Admin & Bot Admin
 Steven|@fSociety|Discord Admin
 
+# Community Moderators
+
+The moderators are responsible for keeping our channels, both public and private, spam free and mostly on topic. Most importantly, they ensure that the rules defined both on this webpage and in #rules are followed.
+
+- Adam Cook (@acc)
+- Booots (@Booots)
+- Chris Dent (@ChrisDent)
+- Cooties (@Kooky Koots)
+- Jake (@ShaqAttack)
+- Kevin (@Psychodata)
+- Patrick (@ITWizardPat)
+- Ronzie (@Ronzie)
+- Scott (@Ginger.Scott)
