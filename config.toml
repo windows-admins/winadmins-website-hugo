@@ -25,7 +25,7 @@ disableKinds = ["RSS"]
 [params.logo]
   logoMark     = ""
   logoText     = "$WinAdmins"
-  logoHomeLink = "/"
+  logoHomeLink = "index.html"
 
 [[menu.main]]
   name       = "Discord"
