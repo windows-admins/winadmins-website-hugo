@@ -19,7 +19,7 @@ disableKinds = ["RSS"]
   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
-  customCSS = ["/css/overrides.css"]
+  customCSS = ["css/overrides.css"]
   customJS = ["https://kit.fontawesome.com/bc4aa9aa86.js"]
 
 [params.logo]
@@ -34,20 +34,20 @@ disableKinds = ["RSS"]
 
 [[menu.main]]
   name       = "About Us"
-  url        = "/about-us"
+  url        = "about-us"
   weight     = 2
 
 [[menu.main]]
   name       = "Guidelines"
-  url        = "/community-rules"
+  url        = "community-rules"
   weight     = 3
 
 [[menu.main]]
   name       = "Resources"
-  url        = "/community-resources"
+  url        = "community-resources"
   weight     = 4
 
 [[menu.main]]
   name       = "Events"
-  url        = "/upcoming-events"
+  url        = "upcoming-events"
   weight     = 5
