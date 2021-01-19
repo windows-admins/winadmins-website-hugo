@@ -25,7 +25,7 @@ disableKinds = ["RSS"]
 [params.logo]
   logoMark     = ""
   logoText     = "$WinAdmins"
-  logoHomeLink = "index.html"
+  logoHomeLink = "/winadmins-website"
 
 [[menu.main]]
   name       = "Discord"
@@ -51,3 +51,9 @@ disableKinds = ["RSS"]
   name       = "Events"
   url        = "upcoming-events"
   weight     = 5
+
+[[menu.main]]
+  name       = "Help"
+  url        = "help"
+  weight     = 6
+  
