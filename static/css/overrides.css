@@ -9,4 +9,5 @@
 .post li a:active { color: blue; text-decoration: none; }
 .post li a:hover { color: blue; text-decoration: underline; }
 
-
+.post { max-width: 1200px; }
+.header__inner { width: 1125px;  }
