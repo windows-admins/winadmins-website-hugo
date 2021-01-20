@@ -5,7 +5,7 @@ draft: false
 aliases: ["/chatting-with-winadmins/whos-who/"]
 ---
 
-WinAdmins is a community of nearly 4,000 people who are (have we stressed this enough) “loosely organized”. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
+WinAdmins is a community of nearly 4,000 people who are loosely organized. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
 
 # Organizers and Administrators
 
