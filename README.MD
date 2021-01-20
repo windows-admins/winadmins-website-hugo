@@ -50,3 +50,7 @@ Please note the following about the structure of our website files:
 - Overrides to CSS can be made in the `static/overrides.css` file.
 - Overrides to the theme's HTML can be made in the `layouts` folder.
 - Please put a .gitkeep in any folder that will be purposely left empty.
+
+# Font Awesome
+
+The Font Awesome kitcode is setup by @ChrisKibble.  You can use any fonts available on this plan, but please don't use on other websites (go get your own!)
