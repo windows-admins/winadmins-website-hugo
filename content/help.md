@@ -4,6 +4,8 @@ date: 2021-01-18T15:59:54-05:00
 draft: false
 ---
 
+The following describes the various roles and commands available in the WinAdmins Discord server.
+
 # Roles
 
 The following outlines the available custom roles and how to obtain them
