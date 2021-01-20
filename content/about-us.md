@@ -34,5 +34,3 @@ Krys|@Kooties|{{<twitter handle="KrysOnTheNet" >}} \| {{<weblink site="https://K
 Patrick|@ITWizardPat
 Ronzie|@Ronzie
 Scott|@Ginger.Scott
-
-@KrysOnTheNet
