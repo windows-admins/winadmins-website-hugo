@@ -49,6 +49,7 @@ securead|Useful AD security links/information|`-securead`
 techsupport|Help someone looking for general tech support outside the scope of this community (this command will autodelete the invoking message)|`-techsupport`
 twitter|Get community Twitter link|`-twitter`
 xy|XY problems (this command will autodelete the invoking message)|`-xy`
+youtube|Get community YouTube link|`-youtube`
 
 ### Nitro Boosters & Microsoft Employees
 
