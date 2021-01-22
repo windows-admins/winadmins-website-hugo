@@ -30,7 +30,7 @@ Booots|@booots#7860
 Chris Dent|@chrisdent#4485
 Jake|@Jake#4885|{{<twitter handle="shackelfjaco" >}}
 Kevin|@Psychodata#1337|{{<twitter handle="psychodata" >}} \| {{<weblink site="https://contoso.one/" >}} \| {{<github username="PsychoData" >}} \| {{<reddit username="PsychoData" >}}
-Krys|@Cooties#4950|{{<twitter handle="KrysOnTheNet" >}} \| {{<weblink site="https://KrysOnThe.Net" >}} \| {{<github username="Kooties" >}}
+Krys|@Kooties#4950|{{<twitter handle="KrysOnTheNet" >}} \| {{<weblink site="https://KrysOnThe.Net" >}} \| {{<github username="Kooties" >}}
 Patrick|@ITWizardPat (MVP)#1568
 Ronzie|@Ronzie#6969
 Scott|@GingerScott#8870|{{<twitter handle="smcallister594" >}} \| {{<reddit username="gingerscottmca" >}}
