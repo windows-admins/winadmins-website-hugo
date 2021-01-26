@@ -39,21 +39,26 @@ disableKinds = ["RSS"]
 
 [[menu.main]]
   name       = "Guidelines"
-  url        = "community-rules"
+  url        = "guidelines"
   weight     = 3
+
+[[menu.main]]
+  name       = "Rules"
+  url        = "rules"
+  weight     = 4
 
 [[menu.main]]
   name       = "Resources"
   url        = "community-resources"
-  weight     = 4
+  weight     = 5
 
 [[menu.main]]
   name       = "Events"
   url        = "upcoming-events"
-  weight     = 5
+  weight     = 6
 
 [[menu.main]]
   name       = "Help"
   url        = "help"
-  weight     = 6
+  weight     = 7
   
