@@ -4,10 +4,10 @@
 
 .post-content table { margin: 0px; width: 100%; }
 
-.post li a { color: blue; text-decoration: none; }
-.post li a:visited { color: blue; text-decoration: none; }
-.post li a:active { color: blue; text-decoration: none; }
-.post li a:hover { color: blue; text-decoration: underline; }
+.post li a { color: #E0FFFF; text-decoration: none; }
+.post li a:visited { color: #E0FFFF; text-decoration: none; }
+.post li a:active { color: #E0FFFF; text-decoration: none; }
+.post li a:hover { color: #E0FFFF; text-decoration: underline; }
 
 .post { max-width: 1200px; }
-.header__inner { width: 1125px;  }
+.header__inner { width: 1125px; }
