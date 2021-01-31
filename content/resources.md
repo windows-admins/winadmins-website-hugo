@@ -1,5 +1,5 @@
 ---
-title: "Community Resources"
+title: "Resources"
 date: 2021-01-18T13:33:51-05:00
 draft: false
 aliases: ["/resources/"]
@@ -7,7 +7,7 @@ aliases: ["/resources/"]
 
 The following links are provided as-is and their inclusion here does not imply that they are reviewed or recommended by anyone in the WinAdmins community, nor does it imply that the owners of any of the following blogs or resources are members of the WinAdmins community.
 
-# Configuration Manager
+## Configuration Manager
 
 *   [A Square Dozen (Adam Gross, MVP)](https://www.asquaredozen.com/)
 *   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
@@ -62,7 +62,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [Windows 10 UEFI BitLocker Front End](https://www.niallbrady.com/2016/05/17/introducing-the-windows-10-uefi-bitlocker-frontend-for-system-center-configuration-manager-current-branch/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
-Desktop Engineering
+## Desktop Engineering
 
 *   [Chocolatey](https://chocolatey.org/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
@@ -83,23 +83,23 @@ Desktop Engineering
 *   [WMI Explorer](https://www.ks-soft.net/hostmon.eng/wmi/index.htm)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
-# Intune
+## Intune
 
 *   [Automating Intune Enrolled Device Driver Updates (SCConfigMgr)](https://www.scconfigmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
 *   [Intune Training (Adam & Steve)](https://intune.training/)
 *   [Microsoft Intune Docs](https://docs.microsoft.com/intune)
 *   [PowerShell Intune Samples (Microsoft Graph)](https://github.com/microsoftgraph/powershell-intune-samples)
 
-# Meetups & Conferences
+## Meetups & Conferences
 
 *   [Midwest Management Summit (MMS)](https://mmsmoa.com/)
 
-# Non-Technical
+## Non-Technical
 
 *   [Become the Master or Go Away (Don Jones)](https://donjones.com/2017/10/19/become-the-master-or-go-away/)
 *   [The Three Types of Knowledge (Bridge Global)](https://www.bridge-global.com/blog/3-types-of-knowledge/)
 
-# PowerShell
+## PowerShell
 
 *   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
@@ -108,12 +108,12 @@ Desktop Engineering
 *   [WMI and PowerShell Browser (CTGlobal)](https://blog.ctglobalservices.com/powershell/kaj/coretech-wmi-and-powershell-browser/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
-# Source Code Repos
+## Source Code Repos
 
 *   [PowerShell Intune Samples (Microsoft Graph)](https://github.com/microsoftgraph/powershell-intune-samples)
 *   [WinAdmins Repository](https://www.github.com/windows-admins)
 
-# User Groups
+## User Groups
 
 *   [DK – System Center User Group Denmark (SCUGDK)](https://meetup.com/scugdk)
 *   [USA – Arizona – Arizona Systems Management User Group (AZSMUG)](https://www.eventbrite.com/o/arizona-systems-management-user-group-9132857604)

@@ -5,4 +5,4 @@ draft: false
 aliases: ["/discord/"]
 ---
 
-{{< jsredir site="https://discord.gg/winadmins" >}}
+{{< jsredir site="https://discord.com/invite/winadmins" >}}

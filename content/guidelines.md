@@ -34,19 +34,19 @@ Requesting remote access or offering remote access to others to resolve issues, 
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins via Discord DM’s. They’ll respond as promptly as they can.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a moderator or admin via Discord DM, or utilize the `-callmods` command in the channel where it occured. They’ll respond as promptly as they can.
 
-This code of conduct applies to all members, but if you are being harassed by a member of Winadmins, we still want to know about it. We will take all good-faith reports of harassment by Winadmins members, especially the administrators, extremely seriously. The admin team reserves the right to exclude people from Winadmins based on their past behaviour, including behaviour outside Winadmins and behaviour towards people who are not members.
+This code of conduct applies to all members, but if you are being harassed by a member of WinAdmins, we still want to know about it. We will take all good-faith reports of harassment by WinAdmins members, especially the administrators, extremely seriously. The admin team reserves the right to exclude people from WinAdmins based on their past behaviour, including behaviour outside WinAdmins and behaviour towards people who are not members.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of Winadmins members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of WinAdmins members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
 Participants asked to stop any behaviour are expected to comply immediately.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this server and identifying the participant publicly as someone about whom we’ve received complaints. As part of tracking problem users moderators and admins will issue warnings.
+If a participant engages in harassing behavior, the moderators and admins may take any action they deem appropriate, up to and including expulsion from this server and identifying the participant publicly as someone about whom we’ve received complaints. As part of tracking problem users moderators and admins will issue warnings.
 
 ## License and Attribution
 
