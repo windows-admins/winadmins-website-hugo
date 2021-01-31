@@ -16,7 +16,7 @@ disableKinds = ["RSS"]
   disableReadOtherPosts = true
   enableSharingButtons = true
 
-  footerLeft = "Powered by <a href=\"https://gohugo.io/">Hugo</a>"
+  footerLeft = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
   customCSS = ["css/overrides.css"]
