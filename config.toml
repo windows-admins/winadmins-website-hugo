@@ -1,6 +1,6 @@
 baseURL = "https://winadmins.io/"
 languageCode = "en-us"
-title = "WinAdmins Community Website"
+title = "WinAdmins Community"
 theme = "hello-friend-ng"
 disableKinds = ["RSS"]
 
@@ -16,7 +16,7 @@ disableKinds = ["RSS"]
   disableReadOtherPosts = true
   enableSharingButtons = true
 
-  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerLeft = "Powered by <a href=\"https://gohugo.io/">Hugo</a>"
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
   customCSS = ["css/overrides.css"]
@@ -49,16 +49,15 @@ disableKinds = ["RSS"]
 
 [[menu.main]]
   name       = "Resources"
-  url        = "community-resources"
+  url        = "resources"
   weight     = 5
 
 [[menu.main]]
   name       = "Events"
-  url        = "upcoming-events"
+  url        = "events"
   weight     = 6
 
 [[menu.main]]
   name       = "Help"
   url        = "help"
   weight     = 7
-  
