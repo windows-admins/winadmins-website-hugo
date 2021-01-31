@@ -6,7 +6,7 @@ draft: false
 
 The following describes the various roles and commands available in the WinAdmins Discord server.
 
-# Roles
+## Roles
 
 The following outlines the available custom roles and how to obtain them
 
@@ -18,10 +18,11 @@ Microsoft Partner|Granted to active Microsoft Partners|Contact a server admin fo
 Trusted Vendor|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
 SysManSquad Staff|Granted to members of the Systems Management Squad (https://sysmansquad.com/)|Contact a server admin for assistance with adding this role
 Helper Roles|Community volunteers providing assistance for various subjects. These roles are pingable and are meant to be used for urgent issues|Visit the `#roles` channel to self-assign these roles
+Notification Roles|Used by bots to send notifications in specific channels|Visit the `#roles` channel to self-assign these roles
 Timezone Roles|Flag yourself with one of three timezone regions|Visit the `#roles` channel to self-assign these roles
 Off-Topic Channel Roles|Grant access to various off-topic private channels|Visit the `#roles` channel to self-assign these roles
 
-# Commands
+## Commands
 
 The following outlines all available commands that can be run on the server, and what roles may be required for use. Unless otherwise specified, the prefix for said commands is a hyphen (`-`)
 
@@ -37,7 +38,7 @@ dogfact|Responds with a random dog fact (only works in the `#pets` channel)|`-do
 github|Get community GitHub link|`-github`
 giveduck|Get a random duck image|`-giveduck @username`
 invite|Get community invite link|`-invite`
-markdown|Help someone with posting code with syntax highlighting|`-markdown`
+markdown (alias: code)|Help someone with posting code with syntax highlighting|`-markdown` or `-code`
 portals|Links to Microsoft Administrator sites|`-portals`
 qspam|Reminder to not to spam questions in multiple channels, causing multiple separate conversations (this command will autodelete the invoking message)|`-qspam`
 redact|Reminder to redact information from logs/screenshots (this command will autodelete the invoking message)|`-redact`
