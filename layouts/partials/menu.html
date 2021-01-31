@@ -4,7 +4,6 @@
         {{ range .Site.Menus.main.ByWeight -}}
             <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
         {{- end }}
-        <li>|</li>
         <li>
             <a href="https://twitter.com/WinAdmins">
                 <i class="fab fa-twitter-square fa-lg"></i>
