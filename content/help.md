@@ -38,6 +38,7 @@ dogfact|Responds with a random dog fact (only works in the `#pets` channel)|`-do
 github|Get community GitHub link|`-github`
 giveduck|Get a random duck image|`-giveduck @username`
 invite|Get community invite link|`-invite`
+licensing (alias: license)|Collection of Microsoft 365 licensing diagrams|`-licensing` or `-license`
 markdown (alias: code)|Help someone with posting code with syntax highlighting|`-markdown` or `-code`
 portals|Links to Microsoft Administrator sites|`-portals`
 qspam|Reminder to not to spam questions in multiple channels, causing multiple separate conversations (this command will autodelete the invoking message)|`-qspam`
