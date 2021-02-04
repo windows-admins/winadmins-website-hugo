@@ -12,7 +12,7 @@ The following outlines the available custom roles and how to obtain them
 
 Role Name|Function|How to Obtain
 -|-|-
-Microsoft Employee|Granted to official Microsoft employees|Run the command `%%microsoft verify` in the `#bot-commands` channel and follow the instructions to validate your Azure AD account
+Microsoft Employee|Granted to official Microsoft employees|Run the command `%%microsoft verify` in the `#bot-commands` channel and follow the instructions to validate your Azure AD account using a corporate-managed device
 Microsoft MVP|Granted to active Microsoft MVPs|Contact a server admin for assistance with adding this role
 Microsoft Partner|Granted to active Microsoft Partners|Contact a server admin for assistance with adding this role
 Trusted Vendor|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
@@ -38,7 +38,7 @@ dogfact|Responds with a random dog fact (only works in the `#pets` channel)|`-do
 github|Get community GitHub link|`-github`
 giveduck|Get a random duck image|`-giveduck @username`
 invite|Get community invite link|`-invite`
-licensing (alias: license)|Collection of Microsoft 365 licensing diagrams|`-licensing` or `-license`
+licensing (aliases: license, licenses)|Collection of Microsoft 365 licensing diagrams|`-licensing`, `-license`, or `-licenses`
 markdown (alias: code)|Help someone with posting code with syntax highlighting|`-markdown` or `-code`
 portals|Links to Microsoft Administrator sites|`-portals`
 qspam|Reminder to not to spam questions in multiple channels, causing multiple separate conversations (this command will autodelete the invoking message)|`-qspam`
