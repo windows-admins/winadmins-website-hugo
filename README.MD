@@ -53,4 +53,5 @@ Please note the following about the structure of our website files:
 
 # Font Awesome
 
-The Font Awesome kitcode is setup by @ChrisKibble.  You can use any fonts available on this plan, but please don't use on other websites (go get your own!)
+The Font Awesome kitcode is maintained by @ChrisKibble & @ACC, two of the WinAdmins.io webmasters.  You may use any of these icons as part of updating the WinAdmins.io website if you wish to contribute, but you may not use these outside of this site.
+
