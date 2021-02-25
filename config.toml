@@ -20,7 +20,6 @@ disableKinds = ["RSS"]
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
   customCSS = ["css/overrides.css"]
-  customJS = ["https://kit.fontawesome.com/bc4aa9aa86.js"]
 
 [params.logo]
   logoMark     = ""
