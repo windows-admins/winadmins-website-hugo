@@ -11,6 +11,10 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please recognize their efforts.
 
+## Vendors
+
+Microsoft and other vendors are NOT here in an official capacity. Any advice given by Microsoft or other tagged vendors isn’t official support and should be taken as-is. For professional assistance, use the vendors appropriate support channel such as Microsoft’s support.microsoft.com. However, we do offer a "Trusted Vendor" role, along with numerous sub-roles for specific vendors, if you are an official vendor representative. If you are interested in obtaining this role, please send a direct message to the [WinAdmins Twitter account](https://twitter.com/winadmins) and the admin team will follow up with you.
+
 ## Logs & Records
 
 Please be mindful that things you say here may at some point become public. We cannot prevent people from screen-shotting or otherwise logging chat. We also can’t guarantee that every member’s login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
