@@ -4,7 +4,7 @@ These files are the core Hugo files for the WinAdmins public website.  When uplo
 
 # Can I update the website?
 
-Yes!  We do not limit website management to any single administrator or person.  All members of the WinAdmins community are welcome to update this site.  All changes are reviewed and approved by a member of the administrators team to ensure that they meet our guidelines.
+Yes!  We do not limit website management to any single administrator or person.  All members of the WinAdmins community are welcome to update this site.  All changes are reviewed and approved by a member of the administration team to ensure that they meet our guidelines.
 
 ## Updating the Website - Forking the Repository
 
