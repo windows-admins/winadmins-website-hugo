@@ -2,6 +2,7 @@
 title: "WinAdmins Community Rules"
 date: 2021-01-26T08:42:36-05:00
 draft: false
+desciption: "We don't have many rules, but here are a few to ensure our community is helpful and welcoming for everyone."
 ---
 
 1. No flaming, personal attacks, or harassment
