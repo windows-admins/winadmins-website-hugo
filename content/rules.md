@@ -5,6 +5,10 @@ draft: false
 desciption: "We don't have many rules, but here are a few to ensure our community is helpful and welcoming for everyone."
 ---
 
+We don't have many rules, but here are a few to ensure our community is helpful and welcoming for everyone.
+
+## Rules
+
 1. No flaming, personal attacks, or harassment
     - We won't tolerate members who attempt to make life difficult or miserable for other members. This includes any message or behavior by a member which insults, baits, or stalks a member.
 2. No racism, nationalism, or discrimination
