@@ -95,6 +95,7 @@ The following links are provided as-is and their inclusion here does not imply t
 
 ## PowerShell
 
+*	[Adam Cook](https://adamcook.io/)
 *   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
 *   [Microsoft PowerShell Docs](https://docs.microsoft.com/powershell)
