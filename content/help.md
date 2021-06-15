@@ -17,7 +17,6 @@ Microsoft MVP|Granted to active Microsoft MVPs|Contact a server admin for assist
 Microsoft Partner|Granted to active Microsoft Partners|Contact a server admin for assistance with adding this role
 Trusted Vendor|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
 SysManSquad Staff|Granted to members of the Systems Management Squad (https://sysmansquad.com/)|Contact a server admin for assistance with adding this role
-Helper Roles|Community volunteers providing assistance for various subjects. These roles are pingable and are meant to be used for urgent issues|Visit the `#roles` channel to self-assign these roles
 Notification Roles|Used by bots to send notifications in specific channels|Visit the `#roles` channel to self-assign these roles
 Timezone Roles|Flag yourself with one of three timezone regions|Visit the `#roles` channel to self-assign these roles
 Off-Topic Channel Roles|Grant access to various off-topic private channels|Visit the `#roles` channel to self-assign these roles
@@ -65,4 +64,5 @@ throw|Throw a random item at a user|`-throw @username`
 
 Command|Function|Example
 -|-|-
+event|Create an event (only works in the `#events` channel, see the pinned message there, or https://docs.yagpdb.xyz/commands/all-commands#events, for complete syntax)|`-event create`
 poll|Create a poll (up to ten options)|`-poll "Poll description" "Option 1" "Option 2"`
