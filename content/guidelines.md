@@ -52,6 +52,8 @@ Participants asked to stop any behaviour are expected to comply immediately.
 
 If a participant engages in harassing behavior, the moderators and admins may take any action they deem appropriate, up to and including expulsion from this server and identifying the participant publicly as someone about whom we’ve received complaints. As part of tracking problem users moderators and admins will issue warnings.
 
+If you have been banned and would like to appeal it, please send a direct message to the `@winadmins` Twitter account, and a community administrator will follow up with you. Not all ban appeals are guaranteed to be actioned, but we will look into them.
+
 ## License and Attribution
 
 This Code of Conduct is directly adapted from several code of conduct documents including Creative Commons, and the Geek Feminism Anti-Harassment Policy and distributed under a Creative Commons Attribution-ShareAlike license.
