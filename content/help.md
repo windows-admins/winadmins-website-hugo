@@ -1,7 +1,6 @@
 ---
-title: "Help"
-date: 2021-01-18T15:59:54-05:00
-draft: false
+Title: "Help"
+Description: "Roles and commands available in the WinAdmins Discord server."
 ---
 
 The following describes the various roles and commands available in the WinAdmins Discord server.
@@ -15,7 +14,7 @@ Role Name|Function|How to Obtain
 Microsoft Employee|Granted to official Microsoft employees|Run the command `%%microsoft verify` in the `#bot-commands` channel and follow the instructions to validate your Azure AD account using a corporate-managed device
 Microsoft MVP|Granted to active Microsoft MVPs|Contact a server admin for assistance with adding this role
 Microsoft Partner|Granted to active Microsoft Partners|Contact a server admin for assistance with adding this role
-Trusted Vendor|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
+Trusted Vendor/Organization|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
 SysManSquad Staff|Granted to members of the Systems Management Squad (https://sysmansquad.com/)|Contact a server admin for assistance with adding this role
 Notification Roles|Used by bots to send notifications in specific channels|Visit the `#roles` channel to self-assign these roles
 Timezone Roles|Flag yourself with one of three timezone regions|Visit the `#roles` channel to self-assign these roles

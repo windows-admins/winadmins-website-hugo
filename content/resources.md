@@ -1,8 +1,6 @@
 ---
-title: "Resources"
-date: 2021-01-18T13:33:51-05:00
-draft: false
-aliases: ["/resources/"]
+Title: "Resources"
+Description: "Links to blogs and other useful technical resources."
 ---
 
 The following links are provided as-is and their inclusion here does not imply that they are reviewed or recommended by anyone in the WinAdmins community, nor does it imply that the owners of any of the following blogs or resources are members of the WinAdmins community.

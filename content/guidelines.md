@@ -1,8 +1,6 @@
 ---
-title: "Guidelines"
-date: 2021-01-18T13:31:48-05:00
-draft: false
-aliases: ["/chatting-with-winadmins/community-rules/"]
+Title: "Guidelines"
+Description: "We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, or religion. We do not tolerate harassment of members in any form. Participants asked to stop any harassing behavior are expected to comply immediately."
 ---
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, or religion. We do not tolerate harassment of members in any form. Participants asked to stop any harassing behavior are expected to comply immediately.

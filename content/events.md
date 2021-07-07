@@ -1,6 +1,6 @@
 ---
-title: "Events"
-draft: false
+Title: "Events"
+Description: "We maintain a list of events in the `#events` channel of our Discord server, where you can mark yourself as attending, and get a notification from our bot as a reminder."
 ---
 
 We maintain a list of events in the `#events` channel of our Discord server, where you can mark yourself as attending, and get a notification from our bot as a reminder.
