@@ -1,6 +1,6 @@
 ---
 Title: "WinAdmins Community"
-draft: false
+Description: "The WinAdmins group is a collection of over 5,600 like-minded geeks interested in information sharing through online chat, blogs, tweets, and conference meet-ups."
 ---
 
 ## Who are the WinAdmins?

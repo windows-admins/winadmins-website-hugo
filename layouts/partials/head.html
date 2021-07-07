@@ -51,6 +51,16 @@
     <meta property="article:published_time" content="{{ time .Date }}" />
 {{ end }}
 
+<!-- Twitter Card --->
+<meta name="twitter:card" content="summary" />
+{{ if isset .Params "title" }}
+    <meta name="twitter:title" content="{{ .Title }}" />
+{{ end }}
+{{ if isset .Params "description" }}
+    <meta name="twitter:description" content="{{ .Description }}" />
+{{ end }}
+<meta name="twitter:image" content="https://winadmins.io/winadmins.png" />
+
 <!-- RSS -->
 {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
