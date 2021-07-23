@@ -86,6 +86,10 @@ The following links are provided as-is and their inclusion here does not imply t
 
 *   [Midwest Management Summit (MMS)](https://mmsmoa.com/)
 
+## Misc
+
+*	[DataForNerds](https://datafornerds.io/)
+
 ## Non-Technical
 
 *   [Become the Master or Go Away (Don Jones)](https://donjones.com/2017/10/19/become-the-master-or-go-away/)
@@ -96,14 +100,19 @@ The following links are provided as-is and their inclusion here does not imply t
 *	[Adam Cook](https://adamcook.io/)
 *   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
+*	[Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition (Chris Dent)](https://smile.amazon.com/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/)
 *   [Microsoft PowerShell Docs](https://docs.microsoft.com/powershell)
 *   [Potent Engineer Blog](http://www.potentengineer.com/)
+*	[PowerShell Gallery - Indented Automation (Chris Dent)](https://www.powershellgallery.com/profiles/indented-automation)
+*	[Powers Hell (Ben Reader)](https://powers-hell.com/)
 *   [WMI and PowerShell Browser (CTGlobal)](https://blog.ctglobalservices.com/powershell/kaj/coretech-wmi-and-powershell-browser/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
 ## Source Code Repositories
 
+*	[DataForNerds GitHub Organization](https://github.com/DataForNerds)
 *   [PowerShell Intune Samples (Microsoft Graph)](https://github.com/microsoftgraph/powershell-intune-samples)
+*	[Indented Automation (Chris Dent)](https://github.com/indented-automation)
 *   [WinAdmins GitHub Organization](https://www.github.com/windows-admins)
 
 ## User Groups
