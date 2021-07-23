@@ -105,6 +105,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [Potent Engineer Blog](http://www.potentengineer.com/)
 *	[PowerShell Gallery - Indented Automation (Chris Dent)](https://www.powershellgallery.com/profiles/indented-automation)
 *	[Powers Hell (Ben Reader)](https://powers-hell.com/)
+*   [PSKoans (Joel Sallow)](https://github.com/vexx32/PSKoans)
 *   [WMI and PowerShell Browser (CTGlobal)](https://blog.ctglobalservices.com/powershell/kaj/coretech-wmi-and-powershell-browser/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
