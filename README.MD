@@ -4,7 +4,7 @@ These files are the core Hugo files for the WinAdmins public website.  When uplo
 
 # Can I update the website?
 
-Yes!  We do not limit website management to any single administrator or person.  All members of the WinAdmins community are welcome to update this site.  All changes are reviewed and approved by a member of the administrators team to ensure that they meet our guidelines.
+Yes!  We do not limit website management to any single administrator or person.  All members of the WinAdmins community are welcome to update this site.  All changes are reviewed and approved by a member of the administration team to ensure that they meet our guidelines.
 
 ## Updating the Website - Forking the Repository
 
@@ -18,7 +18,7 @@ The first thing you'll need to do to update the website is to fork the repositor
 
 For minor updates, you can make all of your changes right in the forked repository you created in the previous step.
 
-In your fork (which will be at https://github.com/<yourusername>/winadmins-website-hugo), select the file you'd like to open and then click the edit button (a picture of a pencil) to make the changes.  There is more information below on where each file resides.
+In your fork (which will be at https://github.com/your-git-hub-username/winadmins-website-hugo), select the file you'd like to open and then click the edit button (a picture of a pencil) to make the changes.  There is more information below on where each file resides.
 
 Once complete, add in a title and optional description of your change and select "Create a new branch for this commit and start a pull request".  Click "Propose Changes".
 

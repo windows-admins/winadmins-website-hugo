@@ -1,8 +1,6 @@
 ---
-title: "Guidelines"
-date: 2021-01-18T13:31:48-05:00
-draft: false
-aliases: ["/chatting-with-winadmins/community-rules/"]
+Title: "Guidelines"
+Description: "We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, or religion. We do not tolerate harassment of members in any form. Participants asked to stop any harassing behavior are expected to comply immediately."
 ---
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, or religion. We do not tolerate harassment of members in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -10,6 +8,10 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 ## Culture
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please recognize their efforts.
+
+## Vendors
+
+Microsoft and other vendors are NOT here in an official capacity. Any advice given by Microsoft or other tagged vendors isn’t official support and should be taken as-is. For professional assistance, use the vendors appropriate support channel such as Microsoft’s support.microsoft.com. However, we do offer a "Trusted Vendor" role, along with numerous sub-roles for specific vendors, if you are an official vendor representative. If you are interested in obtaining this role, please send a direct message to the [WinAdmins Twitter account](https://twitter.com/winadmins) and the admin team will follow up with you.
 
 ## Logs & Records
 
@@ -47,6 +49,8 @@ We will respect confidentiality requests for the purpose of protecting victims o
 Participants asked to stop any behaviour are expected to comply immediately.
 
 If a participant engages in harassing behavior, the moderators and admins may take any action they deem appropriate, up to and including expulsion from this server and identifying the participant publicly as someone about whom we’ve received complaints. As part of tracking problem users moderators and admins will issue warnings.
+
+If you have been banned and would like to appeal it, please send a direct message to the `@winadmins` Twitter account, and a community administrator will follow up with you. Not all ban appeals are guaranteed to be actioned, but we will look into them.
 
 ## License and Attribution
 

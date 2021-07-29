@@ -1,33 +1,30 @@
 ---
-title: "About Us"
-date: 2021-01-18T11:50:54-05:00
-draft: false
-aliases: ["/chatting-with-winadmins/whos-who/"]
+Title: "About Us"
+Description: "Administration & Moderation Teams"
 ---
 
-WinAdmins is a community of over 4,500 people who are loosely organized. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
+WinAdmins is a community of over 5,700 people who are loosely organized. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
 
-## Organizers and Administrators
+## Administration Team
 
-The organizers and administrators are responsible for the day to day work of WinAdmins. We work to ensure that technologies are in place for you to connect, communicate, help one another, and socialize.
+The administration team is responsible for the day to day work of WinAdmins, including functions such as bot administration, handling interactions via our social media presences, and future planning. They work to ensure that technologies are in place for you to connect, communicate, help one another, and socialize.
 
-Name|Discord Username|Functions|More
+Name|Discord Username|Primary Roles/Responsibilities|Links
 -|-|-|-
-Anthony|@ajf#8729|Discord Admin & Twitter Admin|{{<twitter handle="ajf8729" >}} \| {{<weblink site="https://www.anthonyfontanez.com/" >}} \| {{<github username="ajf8729" >}} \| {{<reddit u="ajf8729" >}}
-Chris|@Chris Kibble#8888|Discord Admin & Webmaster|{{<twitter handle="Christopher83" >}} \| {{<weblink site="https://www.christopherkibble.com/" >}} \| {{<github username="ChrisKibble" >}} \| {{<reddit u="ChrisKibble" >}}
+Anthony|@ajf#8729|Discord Admin, GitHub Owner, Twitter Owner|{{<twitter handle="ajf8729" >}} \| {{<weblink site="https://www.anthonyfontanez.com/" >}} \| {{<github username="ajf8729" >}} \| {{<reddit u="ajf8729" >}}
+Chris|@Chris Kibble#8888|Discord Admin, Webmaster, YouTube Owner|{{<twitter handle="Christopher83" >}} \| {{<weblink site="https://www.christopherkibble.com/" >}} \| {{<github username="ChrisKibble" >}} \| {{<reddit u="ChrisKibble" >}}
 Jóhannes|@jgkps#0001|Discord Owner|{{<twitter handle="jgkps" >}}
-Jordan|@JordanTheITGuy#2047|Discord Admin & Bot Admin|{{<twitter handle="JordanTheITguy" >}} \| {{<weblink site="https://jordantheitguy.com/" >}} \| {{<github username="JordanTheITGuy" >}}
-Steven|@darkraven#8424|Discord Admin & Hosting Admin|{{<twitter handle="steven_vital" >}} \| {{<weblink site="https://techfoundry.co.uk/" >}}
+Jordan|@JordanTheITGuy#2047|Discord Admin, Bot Developer/Maintainer|{{<twitter handle="JordanTheITguy" >}} \| {{<weblink site="https://jordantheitguy.com/" >}} \| {{<github username="JordanTheITGuy" >}}
+Steven|@ecorp#0666|Discord Admin, Hosting Admin|{{<twitter handle="steven_vital" >}} \| {{<weblink site="https://techfoundry.co.uk/" >}}
 
-## Community Moderators
+## Moderation Team
 
-The moderators are responsible for keeping our channels, both public and private, spam free and mostly on topic. Most importantly, they ensure that the rules defined both on this webpage and in #rules are followed.
+The moderation team is responsible for keeping our channels, both public and private, spam free and mostly on topic. Most importantly, they ensure that our community rules and guidelines are followed.
 
-Name|Discord Username|More
+Name|Discord Username|Links
 -|-|-
-Adam Cook|@acc#6093|{{<twitter handle="codaamok" >}} \| {{<weblink site="https://adamcook.io/" >}} \| {{<github username="codaamok" >}} \| {{<reddit u="adampskib" >}}
 Booots|@booots#7860
-Chris Dent|@chrisdent#4485|{{<weblink site="https://www.indented.co.uk/" >}} \| {{<github username="indented-automation" >}}
+Chris|@chrisdent#4485|{{<weblink site="https://www.indented.co.uk/" >}} \| {{<github username="indented-automation" >}}
 Jake|@Jake#4885|{{<twitter handle="shackelfjaco" >}}
 Kevin|@Psychodata#1337|{{<twitter handle="psychodata" >}} \| {{<weblink site="https://contoso.one/" >}} \| {{<github username="PsychoData" >}} \| {{<reddit username="PsychoData" >}}
 Krys|@Kooties#4950|{{<twitter handle="KrysOnTheNet" >}} \| {{<weblink site="https://KrysOnThe.Net" >}} \| {{<github username="Kooties" >}}
