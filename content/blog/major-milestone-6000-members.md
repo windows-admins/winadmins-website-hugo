@@ -4,7 +4,7 @@ Date: 2021-08-13T16:00:00-00:00
 Description: "Major Milestone - 6,000 Members!"
 ---
 
-Congratulations to the WinAdmins Community which passed [6,000 members](membercount-2021-08-12.png) as of 2021-08-12!
+Congratulations to the WinAdmins Community which passed [6,000 members](/membercount-2021-08-12.png) as of 2021-08-12!
 
 Some fun facts:
 
