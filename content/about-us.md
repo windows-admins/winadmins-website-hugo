@@ -3,7 +3,7 @@ Title: "About Us"
 Description: "Administration & Moderation Teams"
 ---
 
-WinAdmins is a community of over 5,900 people who are loosely organized. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
+WinAdmins is a community of over 6,000 people who are loosely organized. That said, there are a number of key players in the organization who contribute to the collective in one way or another.
 
 ## Administration Team
 
