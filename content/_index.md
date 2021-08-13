@@ -1,6 +1,6 @@
 ---
 Title: "WinAdmins Community"
-Description: "The WinAdmins group is a collection of over 5,900 like-minded geeks interested in information sharing through online chat, blogs, tweets, and conference meet-ups."
+Description: "The WinAdmins group is a collection of over 6,000 like-minded geeks interested in information sharing through online chat, blogs, tweets, and conference meet-ups."
 ---
 
 ## Who are the WinAdmins?
