@@ -31,4 +31,4 @@ jobs:
           external_repository: windows-admins/winadmins-website
           publish_branch: main
           publish_dir: ./public
-          keep_files: true
+          keep_files: false
