@@ -88,7 +88,7 @@
 				{{ if (eq $eventOver false) }}
 					<strong>Registration Link:</strong><br />
 					{{ if .Params.RegLink }} 
-						<a href="{{ .Params.RegLink }}">Register Here</a>
+						<a href="{{ .Params.RegLink }}" target="_new">Register Here</a>
 					{{ else }}
 						Not Available - Check Back Soon!
 					{{ end }}
