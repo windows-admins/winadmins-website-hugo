@@ -45,7 +45,7 @@
             <div class="post-content">
 
 				{{ if (eq $eventOver false) }}
-					The WinAdmins team will be hosting <strong>{{ .Title }}</strong> on {{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} and hope that you can make this event. Please use the registration link above to ensure that you can access this event and also to ensure that you are made aware if there are any changes to the date, time, or location.<br/>
+					The WinAdmins team will be hosting <strong>{{ .Title }}</strong> on {{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} and hope that you can make this event. Please use the registration link to ensure that you can access this event and also to ensure that you are made aware if there are any changes to the date, time, or location.<br/>
 				{{ else }}
 					On {{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} hosted <strong>{{ .Title }}</strong>.<br/>
 				{{ end }}
