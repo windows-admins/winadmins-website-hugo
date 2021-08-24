@@ -55,13 +55,8 @@
 				{{ if .Params.Speakers }}
 					<strong>Speakers:</strong><br/>
 					{{- $speakers := .Params.Speakers -}}
-					{{- $speakerCount = (len $speakers) -}}
-					{{- $speakerLastIndex := add $speakerCount -1 }}
 					{{- range $index, $value := $speakers -}}
 						{{ . }}
-						{{- if ne $index $speakerLastIndex -}}
-							,&nbsp;
-						{{- end -}}
 					<br />
 					{{- end -}}
 					<br />
