@@ -55,6 +55,7 @@ The following links are provided as-is and their inclusion here does not imply t
 
 ## Desktop Engineering
 
+*   [Adam the Automator](https://adamtheautomator.com/)
 *   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Chocolatey](https://chocolatey.org/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
@@ -89,6 +90,7 @@ The following links are provided as-is and their inclusion here does not imply t
 ## Misc
 
 *	[DataForNerds](https://datafornerds.io/)
+*	[Perf and Debug](https://illuminati.services/)
 
 ## Non-Technical
 
