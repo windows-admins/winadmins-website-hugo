@@ -28,6 +28,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [HeyZeus Tech](http://heyzeus.tech/)
 *   [Hydration Kit For WinServer 2016 and ConfigMgr CB/TPB](https://deploymentresearch.com/hydration-kit-for-windows-server-2016-and-configmgr-current-technical-preview-branch/)
 *   [Image Factory](https://deploymentbunny.com/2018/10/19/image-factory-4-0-is-available-for-download/)
+*   [Katy's Tech Blog](https://katystech.blog/category/memcm/)
 *   [LogLauncher by Robert Marshall](https://archive.wmug.co.uk/wmug/b/r0b/posts/loglauncher-3-1)
 *   [Microsoft Configuration Manager Docs](https://docs.microsoft.com/configmgr/)
 *   [Microsoft Core Infrastructure and Security](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
@@ -80,6 +81,7 @@ The following links are provided as-is and their inclusion here does not imply t
 
 *   [Automating Intune Enrolled Device Driver Updates (MSEndpointMgr)](https://msendpointmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
 *   [Intune.Training](https://intune.training/)
+*   [Katy's Tech Blog](https://katystech.blog/category/intune/)
 *   [Microsoft Intune Docs](https://docs.microsoft.com/intune)
 *   [PowerShell Intune Samples (Microsoft Graph)](https://github.com/microsoftgraph/powershell-intune-samples)
 
