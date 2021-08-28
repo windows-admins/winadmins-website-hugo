@@ -45,7 +45,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [RuckZuck Tools](https://ruckzuck.tools/)
 *   [SQL Server Maintenance Solution (Ola Hallegren)](https://ola.hallengren.com/downloads.html)
 *   [SysManSquad](https://sysmansquad.com/)
-*	  [System Center Dudes (Reports, Power BI Dashboards, Guides)](https://shop.systemcenterdudes.com/)
+*	[System Center Dudes (Reports, Power BI Dashboards, Guides)](https://shop.systemcenterdudes.com/)
 *   [Top 10 Must-Have Tools for the ConfigMgr Admin (Adaptiva)](https://insights.adaptiva.com/2018/configmgr-admin-tools-top-10/)
 *   [UI++ (MEMFTW)](https://uiplusplus.configmgrftw.com/)
 *   [USA – Colorado / Online – Modern Enterprise Management User Group (MEMUG)](https://memug.org/)
