@@ -8,7 +8,7 @@ The following links are provided as-is and their inclusion here does not imply t
 ## Configuration Manager
 
 *   [A Square Dozen (Adam Gross, MVP)](https://www.asquaredozen.com/)
-*   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
+*   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
 *   [Client Health – PowerBI Report (Jeff Bolduan)](https://winblog.it.umn.edu/2018/05/23/sccm-client-health-powerbi-report-version-1/)
 *   [CMPackager (Andrew Jimenez)](https://github.com/asjimene/CMPackager)
@@ -53,9 +53,9 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [Windows 10 UEFI BitLocker Front End](https://www.niallbrady.com/2016/05/17/introducing-the-windows-10-uefi-bitlocker-frontend-for-system-center-configuration-manager-current-branch/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 
-## Desktop Engineering
+## Desktop Engineering / Endpoint Management
 
-*   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
+*   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Chocolatey](https://chocolatey.org/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
 *   [HeyZeus Tech](http://heyzeus.tech/)
@@ -77,6 +77,7 @@ The following links are provided as-is and their inclusion here does not imply t
 
 ## Intune
 
+*   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Automating Intune Enrolled Device Driver Updates (MSEndpointMgr)](https://msendpointmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
 *   [Intune.Training](https://intune.training/)
 *   [Microsoft Intune Docs](https://docs.microsoft.com/intune)
@@ -98,7 +99,7 @@ The following links are provided as-is and their inclusion here does not imply t
 ## PowerShell
 
 *	[Adam Cook](https://adamcook.io/)
-*   [Anthony J. Fontanez – ConfigMgr, AD, PowerShell, and more](https://www.anthonyfontanez.com/)
+*   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
 *	[Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition (Chris Dent)](https://smile.amazon.com/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/)
 *   [Microsoft PowerShell Docs](https://docs.microsoft.com/powershell)
