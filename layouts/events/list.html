@@ -1,0 +1,32 @@
+{{ define "main" }}
+    
+    <main class="posts">
+        <h1>{{ .Title }}</h1>
+
+        {{ if .Content }}
+            <div class="content">{{ .Content }}</div>
+        {{ end }}
+		
+		<div class="posts-group">
+			<ul class="posts-list">
+				{{ range sort .Pages "Params.EventStartUTC" "desc" }}
+					<li class="post-item">
+						<a href="{{.Permalink}}">
+							{{ $evtDate := (time .Params.EventStartUTC) }}
+							
+							{{ if $evtDate.After now }}
+								<span class="post-title" style="color: #D5D5D5;">
+							{{ else }}
+								<span class="post-title">
+							{{ end }}
+							
+							{{ (dateFormat "2006-Jan-02" .Params.EventStartUTC)  }} ~ {{.Title}}
+							</span>			
+						</a>
+					</li>
+				{{ end }}
+			</ul>
+		</div>
+    </main>
+
+{{ end }}

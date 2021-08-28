@@ -28,6 +28,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [HeyZeus Tech](http://heyzeus.tech/)
 *   [Hydration Kit For WinServer 2016 and ConfigMgr CB/TPB](https://deploymentresearch.com/hydration-kit-for-windows-server-2016-and-configmgr-current-technical-preview-branch/)
 *   [Image Factory](https://deploymentbunny.com/2018/10/19/image-factory-4-0-is-available-for-download/)
+*   [Katy's Tech Blog](https://katystech.blog/category/memcm/)
 *   [LogLauncher by Robert Marshall](https://archive.wmug.co.uk/wmug/b/r0b/posts/loglauncher-3-1)
 *   [Microsoft Configuration Manager Docs](https://docs.microsoft.com/configmgr/)
 *   [Microsoft Core Infrastructure and Security](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
@@ -44,7 +45,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [RuckZuck Tools](https://ruckzuck.tools/)
 *   [SQL Server Maintenance Solution (Ola Hallegren)](https://ola.hallengren.com/downloads.html)
 *   [SysManSquad](https://sysmansquad.com/)
-*	[System Center Dudes (Reports, Power BI Dashboards, Guides)](https://shop.systemcenterdudes.com/)
+*	  [System Center Dudes (Reports, Power BI Dashboards, Guides)](https://shop.systemcenterdudes.com/)
 *   [Top 10 Must-Have Tools for the ConfigMgr Admin (Adaptiva)](https://insights.adaptiva.com/2018/configmgr-admin-tools-top-10/)
 *   [UI++ (MEMFTW)](https://uiplusplus.configmgrftw.com/)
 *   [USA – Colorado / Online – Modern Enterprise Management User Group (MEMUG)](https://memug.org/)
@@ -55,6 +56,7 @@ The following links are provided as-is and their inclusion here does not imply t
 
 ## Desktop Engineering / Endpoint Management
 
+*   [Adam the Automator](https://adamtheautomator.com/)
 *   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Chocolatey](https://chocolatey.org/)
 *   [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
@@ -80,6 +82,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
 *   [Automating Intune Enrolled Device Driver Updates (MSEndpointMgr)](https://msendpointmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
 *   [Intune.Training](https://intune.training/)
+*   [Katy's Tech Blog](https://katystech.blog/category/intune/)
 *   [Microsoft Intune Docs](https://docs.microsoft.com/intune)
 *   [PowerShell Intune Samples (Microsoft Graph)](https://github.com/microsoftgraph/powershell-intune-samples)
 
@@ -90,6 +93,7 @@ The following links are provided as-is and their inclusion here does not imply t
 ## Misc
 
 *	[DataForNerds](https://datafornerds.io/)
+*	[Perf and Debug](https://illuminati.services/)
 
 ## Non-Technical
 
@@ -106,6 +110,7 @@ The following links are provided as-is and their inclusion here does not imply t
 *   [Potent Engineer Blog](http://www.potentengineer.com/)
 *	[PowerShell Gallery - Indented Automation (Chris Dent)](https://www.powershellgallery.com/profiles/indented-automation)
 *	[Powers Hell (Ben Reader)](https://powers-hell.com/)
+*   [PSKoans (Joel Sallow)](https://github.com/vexx32/PSKoans)
 *   [WMI and PowerShell Browser (CTGlobal)](https://blog.ctglobalservices.com/powershell/kaj/coretech-wmi-and-powershell-browser/)
 *   [Z-Nerd Blog](http://z-nerd.com/)
 

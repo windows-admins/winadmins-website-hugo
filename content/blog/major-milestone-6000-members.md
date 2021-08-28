@@ -1,6 +1,6 @@
 ---
 Title: "Major Milestone - 6,000 Members!"
-Date: 2021-08-13T16:00:00-00:00
+Date: 2021-08-12T16:00:00-00:00
 Description: "Major Milestone - 6,000 Members!"
 ---
 

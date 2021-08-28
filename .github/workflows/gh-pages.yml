@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main  # Set a branch name to trigger deployment
+  schedule:
+      - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -18,7 +21,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.80.0'
+          hugo-version: '0.87.0'
           extended: true
 
       - name: Build
@@ -31,4 +34,4 @@ jobs:
           external_repository: windows-admins/winadmins-website
           publish_branch: main
           publish_dir: ./public
-          keep_files: true
+          keep_files: false

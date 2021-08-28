@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+	{{ $evtDate := (time .Params.EventStartUTC) }}
+
+	{{ $eventOver := false }}
+
+	{{ if not ($evtDate.After now) }}
+		{{ $eventOver = true }}
+	{{ end }}  
+	
+	<main class="post">
+
+        <div class="post-info">
+            {{ if .IsTranslated }}
+                {{ i18n "postAvailable" }}
+                {{ range .Translations }}
+                    <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
+                {{ end}}
+            {{ end }}
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+
+            {{ if .Params.Cover }}
+                <figure class="post-cover">
+                    <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
+                
+                    {{ if .Params.CoverCaption }}
+                        <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
+                    {{ end }}
+                </figure>
+            {{ end }}
+            
+            {{ if .Params.toc }}
+                <hr />
+                <aside id="toc">
+                <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+                    {{ .TableOfContents }}
+                </aside>
+                <hr />
+            {{ end }}
+
+            <div class="post-content">
+
+				{{ if (eq $eventOver false) }}
+					The WinAdmins team will be hosting <strong>{{ .Title }}</strong> on {{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} and hope that you can make this event. Please use the registration link to ensure that you can access this event and also to ensure that you are made aware if there are any changes to the date, time, or location.<br/>
+				{{ else }}
+					On {{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} hosted <strong>{{ .Title }}</strong>.<br/>
+				{{ end }}
+				<br />
+								
+				{{ $speakerCount := 0 }}
+				{{ if .Params.Speakers }}
+					<strong>Speakers:</strong><br/>
+					{{- $speakers := .Params.Speakers -}}
+					{{- range $index, $value := $speakers -}}
+						{{ . }}
+					<br />
+					{{- end -}}
+					<br />
+				{{ end }}
+			
+				<strong>Event Start:</strong><br />
+				{{ if .Params.EventStartUTC }}
+					{{ (dateFormat "Monday, January 2, 2006 at 15:04 UTC" .Params.EventStartUTC) }} - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso={{.Params.EventStartUTC}}" target="_new">See in your local timezone</a><br />
+					{{ if (eq $eventOver false) }}
+						{{ if .Params.EventDuration }}This event is expected to last approximately&nbsp;{{- .Params.EventDuration }}.<br />{{ end }}
+					{{ end }}
+				{{ else }}
+					Not Yet Defined.<br />
+				{{ end }}
+				<br />
+				
+				{{ if (eq $eventOver true) }}
+					{{ if .Params.YouTubeId }}
+						<iframe width="1120" height="630" src="https://www.youtube.com/embed/{{ .Params.YouTubeId}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					{{ end }}
+				{{ end }}
+				
+				
+				{{ if (eq $eventOver false) }}
+					<strong>Registration Link:</strong><br />
+					{{ if .Params.RegLink }} 
+						<a href="{{ .Params.RegLink }}" target="_new">Register Here</a>
+					{{ else }}
+						Not Available - Check Back Soon!
+					{{ end }}
+				{{ end }}
+				
+				{{ if .Content }}
+					<h2>About This Event</h2>
+					{{ .Content }}
+				{{ end }}
+
+				
+				<h2>Guidelines & Rules</h2>
+				All WinAdmins live & virtual will follow our published Guidelines and Rules, which you can find on our website.<br />
+				<br />
+				
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            {{ partial "tags.html" . }}
+            {{ partial "categories.html" . }}
+
+            {{- if .GitInfo }}
+			    <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg><a href="{{ .Site.Params.gitUrl -}}{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a> @ {{ if .Site.Params.dateformNum }}{{ dateFormat .Site.Params.dateformNum .GitInfo.AuthorDate.Local }}{{ else }}{{ dateFormat "2006-01-02" .GitInfo.AuthorDate.Local }}{{ end }}</p>
+			{{- end }}
+  		</div>
+    </main>
+{{ end }}
