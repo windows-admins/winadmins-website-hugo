@@ -5,6 +5,8 @@ Description: "Links to blogs and other useful technical resources."
 
 The following links are provided as-is and their inclusion here does not imply that they are reviewed or recommended by anyone in the WinAdmins community, nor does it imply that the owners of any of the following blogs or resources are members of the WinAdmins community.
 
+If you know of something that should be added, please feel free to submit a pull request on [GitHub](https://github.com/windows-admins/winadmins-website-hugo/blob/main/content/resources.md)!
+
 ## Configuration Manager
 
 *   [A Square Dozen (Adam Gross, MVP)](https://www.asquaredozen.com/)
