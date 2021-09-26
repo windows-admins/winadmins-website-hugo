@@ -5,7 +5,7 @@ Description: "The WinAdmins group is a collection of over 6,000 like-minded geek
 
 ## Who are the WinAdmins?
 
-The WinAdmins group is a collection of over 5,900 like-minded geeks interested in information sharing through online chat, blogs, tweets, and conference meet-ups. We are, in short, a loosely formed community focused on helping others in managing IT environments. While our original focus was on the management of Microsoft Windows environments, we’ve grown to support each other in managing Mac, Mobile, Cloud, and all new emerging technologies.
+The WinAdmins group is a collection of over 6,300 like-minded geeks interested in information sharing through online chat, blogs, tweets, and conference meet-ups. We are, in short, a loosely formed community focused on helping others in managing IT environments. While our original focus was on the management of Microsoft Windows environments, we’ve grown to support each other in managing Mac, Mobile, Cloud, and all new emerging technologies.
 
 ## Becoming a Member
 
