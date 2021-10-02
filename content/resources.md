@@ -10,8 +10,8 @@ If you know of something that should be added, please feel free to submit a pull
 ## Configuration Manager
 
 * [A Square Dozen (Adam Gross, MVP)](https://www.asquaredozen.com/)
-* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
-* [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
+* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
+* [Christopher Kibble’s Technical Ramblings](http://christopherkibble.com/)
 * [Client Health – PowerBI Report (Jeff Bolduan)](https://winblog.it.umn.edu/2018/05/23/sccm-client-health-powerbi-report-version-1/)
 * [CMPackager (Andrew Jimenez)](https://github.com/asjimene/CMPackager)
 * [Community Tools List (CCMExec.com – 2018)](https://ccmexec.com/2018/05/links-from-our-configuration-manager-community-tools-session-at-mms-2018/)
@@ -59,9 +59,9 @@ If you know of something that should be added, please feel free to submit a pull
 ## Desktop Engineering / Endpoint Management
 
 * [Adam the Automator](https://adamtheautomator.com/)
-* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
+* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
 * [Chocolatey](https://chocolatey.org/)
-* [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
+* [Christopher Kibble’s Technical Ramblings](http://christopherkibble.com/)
 * [HeyZeus Tech](http://heyzeus.tech/)
 * [Hydration Kit For WinServer 2016 and ConfigMgr CB/TPB](https://deploymentresearch.com/hydration-kit-for-windows-server-2016-and-configmgr-current-technical-preview-branch/)
 * [Image Factory](https://deploymentbunny.com/2018/10/19/image-factory-4-0-is-available-for-download/)
@@ -81,7 +81,7 @@ If you know of something that should be added, please feel free to submit a pull
 
 ## Intune
 
-* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
+* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
 * [Automating Intune Enrolled Device Driver Updates (MSEndpointMgr)](https://msendpointmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
 * [Intune.Training](https://intune.training/)
 * [Katy's Tech Blog](https://katystech.blog/category/intune/)
@@ -106,8 +106,8 @@ If you know of something that should be added, please feel free to submit a pull
 ## PowerShell
 
 * [Adam Cook](https://adamcook.io/)
-* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://www.anthonyfontanez.com/)
-* [Christopher Kibble’s Technical Ramblings](http://www.christopherkibble.com/)
+* [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
+* [Christopher Kibble’s Technical Ramblings](http://christopherkibble.com/)
 * [Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition (Chris Dent)](https://smile.amazon.com/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/)
 * [Microsoft PowerShell Docs](https://docs.microsoft.com/powershell)
 * [Potent Engineer Blog](http://www.potentengineer.com/)
