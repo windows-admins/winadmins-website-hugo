@@ -21,3 +21,7 @@ We created a new role named "Frequent Visitor", where members will be automatica
 ## Server Discovery!
 
 Discord dropped the requirements for enabling server discovery from 7,000 members to 1,000, so we're now listed as a "public" server (that "Explore Public Servers" button at the bottom of your server list). We're doing this as a trial for now; hopefully we just don't attract more folks in need of some `-techsupport`.
+
+## Reminder! Upcoming Windows 365 Event!
+
+If you haven't already registered, be sure to check out our upcoming event **"Introducing Windows 365 – The CloudPC"** on October 13th, featuring [Donna Ryan](https://twitter.com/TheNotoriousDRR). Please see [Introducing Windows 365 – The CloudPC](https://winadmins.io/events/2021-10-13-w365-donna-ryan/) for more information.
