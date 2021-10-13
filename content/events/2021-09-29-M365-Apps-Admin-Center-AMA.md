@@ -4,6 +4,7 @@ EventStartUTC: 2021-09-29T17:00:00
 EventDuration: "1 Hour"
 Speakers: ["Matt Philipenko","Bob Clements","Eric Wayne","Martin Nothnagel", "Amesh Mansukhani"]
 RegLink: "https://www.eventbrite.com/e/microsoft-365-apps-modern-management-with-the-office-rangers-ama-tickets-168316756951"
+YouTubeId: "fobiuOfSqeQ"
 ---
 
 **Microsoft 365 Apps (formerly Office 365 ProPlus)  Modern Management with the Office Rangers – Ask Us Anything!**
