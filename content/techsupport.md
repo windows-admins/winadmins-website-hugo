@@ -1,6 +1,6 @@
 ---
 Title: "Tech Support"
-Description: "List of available resources for non-admin tech support"
+Description: "The WinAdmins Discord server is primarily geared towards Information Technology professionals managing enterprise environments. If you are looking for end-user technical, we have a number of suggested resources available here."
 ---
 
 The WinAdmins Discord server is primarily geared towards Information Technology professionals managing enterprise environments. We have compiled a short list of resources available for end user tech support that you might find helpful in resolving problems.
