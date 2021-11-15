@@ -31,6 +31,7 @@ Command|Function|Example
 ask|Don't ask to ask, i.e., how to ask better questions (this command will autodelete the invoking message)|`-ask`
 callmods|Alert the moderation team about an issue in a channel (this command will autodelete the invoking message)|`-callmods`
 catfact|Responds with a random cat fact (only works in the `#pets` channel)|`-catfact`
+cmlinks|Get useful ConfigMgr links|`-cmlinks`
 delreminder|Deletes a reminder|`-delreminder <ID>`
 dogfact|Responds with a random dog fact (only works in the `#pets` channel)|`-dogfact`
 github|Get community GitHub link|`-github`
@@ -48,6 +49,7 @@ schannel|Useful SChannel links/information|`-schannel`
 securead|Useful AD security links/information|`-securead`
 techsupport|Help someone looking for general tech support outside the scope of this community (this command will autodelete the invoking message)|`-techsupport`
 twitter|Get community Twitter link|`-twitter`
+wufb|Get useful Windows Update for Business links|`-wufb`
 xy|XY problems (this command will autodelete the invoking message)|`-xy`
 youtube|Get community YouTube link|`-youtube`
 
