@@ -65,5 +65,4 @@ throw|Throw a random item at a user|`-throw @username`
 
 Command|Function|Example
 -|-|-
-event|Create an event (only works in the `#events` channel, see the pinned message there, or https://docs.yagpdb.xyz/commands/all-commands#events, for complete syntax)|`-event create`
 poll|Create a poll (up to ten options)|`-poll "Poll description" "Option 1" "Option 2"`
