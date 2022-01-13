@@ -15,7 +15,7 @@
 							{{ $evtDate := (time .Params.EventStartUTC) }}
 							
 							{{ if $evtDate.After now }}
-								<span class="post-title" style="color: #D5D5D5;">
+								<span class="post-title" style="font-weight: bold;">
 							{{ else }}
 								<span class="post-title">
 							{{ end }}
