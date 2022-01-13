@@ -1,5 +1,5 @@
 ---
-Title: "Microsoft 365 Apps Modern Management with the Office Rangers – AMA!"
+Title: "Microsoft 365 Apps with the Office Rangers – AMA!"
 EventStartUTC: 2022-02-16T19:00:00
 EventDuration: "1 Hour"
 Speakers: ["Matt Philipenko","Bob Clements","Eric Wayne","Martin Nothnagel", "Amesh Mansukhani"]
