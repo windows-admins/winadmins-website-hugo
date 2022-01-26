@@ -26,6 +26,5 @@ Name|Discord Username|Links
 Booots|@booots#7860
 Chris|@chrisdent#4485|{{<weblink site="https://www.indented.co.uk/">}} \| {{<github username="indented-automation">}}
 Jake|@Jake#4885|{{<twitter handle="shackelfjaco">}}
-Kevin|@Psychodata#1337|{{<twitter handle="psychodata">}} \| {{<weblink site="https://contoso.one/">}} \| {{<github username="PsychoData">}} \| {{<reddit username="PsychoData">}}
 Krys|@Kooties#4950|{{<twitter handle="KrysOnTheNet">}} \| {{<weblink site="https://KrysOnThe.Net">}} \| {{<github username="Kooties">}}
 Scott|@GingerScott#8870|{{<twitter handle="smcallister594">}} \| {{<reddit username="gingerscottmca">}}
