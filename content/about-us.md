@@ -28,3 +28,7 @@ Chris|@chrisdent#4485|{{<weblink site="https://www.indented.co.uk/">}} \| {{<git
 Jake|@Jake#4885|{{<twitter handle="shackelfjaco">}}
 Krys|@Kooties#4950|{{<twitter handle="KrysOnTheNet">}} \| {{<weblink site="https://KrysOnThe.Net">}} \| {{<github username="Kooties">}}
 Scott|@GingerScott#8870|{{<twitter handle="smcallister594">}} \| {{<reddit username="gingerscottmca">}}
+
+## Community Heroes
+
+WinAdmins Community Heroes are members of our Discord community who we recognize as outstanding friends and mentors within the group. You can see a list of our current heroes [here](/community-heroes).
