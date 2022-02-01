@@ -33,7 +33,7 @@ This project will not compete with any other community blogs or programs. The go
 
 ## Housekeeping Items
 
-We have split apart the `m354-and-on-prem` channel to better differentiate the associated components into:
+We have split apart the `m365-and-on-prem` channel to better differentiate the associated components into:
 
 - `#exchange`
 - `#teams`

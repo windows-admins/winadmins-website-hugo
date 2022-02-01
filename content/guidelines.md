@@ -36,9 +36,9 @@ Requesting remote access or offering remote access to others to resolve issues, 
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a moderator or admin via Discord DM, or utilize the `-callmods` command in the channel where it occured. They’ll respond as promptly as they can.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a moderator or admin via Discord DM, or utilize the `-callmods` command in the channel where it occurred. They’ll respond as promptly as they can.
 
-This code of conduct applies to all members, but if you are being harassed by a member of WinAdmins, we still want to know about it. We will take all good-faith reports of harassment by WinAdmins members, especially the administrators, extremely seriously. The admin team reserves the right to exclude people from WinAdmins based on their past behaviour, including behaviour outside WinAdmins and behaviour towards people who are not members.
+This code of conduct applies to all members, but if you are being harassed by a member of WinAdmins, we still want to know about it. We will take all good-faith reports of harassment by WinAdmins members, especially the administrators, extremely seriously. The admin team reserves the right to exclude people from WinAdmins based on their past behavior, including behavior outside WinAdmins and behavior towards people who are not members.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -46,11 +46,11 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ## Consequences
 
-Participants asked to stop any behaviour are expected to comply immediately.
+Participants asked to stop any behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the moderators and admins may take any action they deem appropriate, up to and including expulsion from this server and identifying the participant publicly as someone about whom we’ve received complaints. As part of tracking problem users moderators and admins will issue warnings.
 
-If you have been banned and would like to appeal it, please send a direct message to the `@winadmins` Twitter account, and a community administrator will follow up with you. Not all ban appeals are guaranteed to be actioned, but we will look into them.
+If you have been banned and would like to appeal it, please send an email to admins@winadmins.io, and a community administrator will follow up with you. Not all ban appeals are guaranteed to be actioned, but we will look into them.
 
 ## License and Attribution
 
