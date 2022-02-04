@@ -49,6 +49,7 @@ schannel|Useful SChannel links/information|`-schannel`
 securead|Useful AD security links/information|`-securead`
 techsupport|Help someone looking for general tech support outside the scope of this community (this command will autodelete the invoking message)|`-techsupport`
 twitter|Get community Twitter link|`-twitter`
+whfb|Get useful Windows Hello for Business links|`-whfb`
 wufb|Get useful Windows Update for Business links|`-wufb`
 xy|XY problems (this command will autodelete the invoking message)|`-xy`
 youtube|Get community YouTube link|`-youtube`
