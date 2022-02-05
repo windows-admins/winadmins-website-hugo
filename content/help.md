@@ -12,10 +12,10 @@ The following outlines the available custom roles and how to obtain them
 Role Name|Function|How to Obtain
 -|-|-
 Microsoft Employee|Granted to official Microsoft employees|Run the command `%%microsoft verify` in the `#bot-commands` channel and follow the instructions to validate your Azure AD account using a corporate-managed device
-Microsoft MVP|Granted to active Microsoft MVPs|Contact a server admin for assistance with adding this role
-Microsoft Partner|Granted to active Microsoft Partners|Contact a server admin for assistance with adding this role
-Trusted Vendor/Organization|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Contact a server admin for assistance with adding this role
-SysManSquad Staff|Granted to members of the Systems Management Squad (https://sysmansquad.com/)|Contact a server admin for assistance with adding this role
+Microsoft MVP|Granted to active Microsoft MVPs|Send an email to admins@winadmins.io to request this role
+Microsoft Partner|Granted to active Microsoft Partners| Send an email to admins@winadmins.io from your business email address to request this role
+Trusted Vendor/Organization|Granted to users that are representing a vendor in an official capacity. This role also has a number of subroles for specific vendors that have multiple representatives|Send an email to admins@winadmins.io from your business email address to request this role
+SysManSquad Staff|Granted to members of the Systems Management Squad (https://sysmansquad.com/)|Join the SMS team via https://sysmansquad.com/ and a squad member will assist you with obtaining this role
 Notification Roles|Used by bots to send notifications in specific channels|Visit the `#roles` channel to self-assign these roles
 Timezone Roles|Flag yourself with one of three timezone regions|Visit the `#roles` channel to self-assign these roles
 Off-Topic Channel Roles|Grant access to various off-topic private channels|Visit the `#roles` channel to self-assign these roles
