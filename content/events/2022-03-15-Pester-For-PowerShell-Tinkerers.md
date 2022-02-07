@@ -4,7 +4,7 @@ EventStartUTC: 2022-03-15T15:00:00
 EventDuration: "1 Hour"
 Speakers: ["Adam Cook"]
 RegLink: "https://www.eventbrite.com/e/breaking-the-ice-with-pester-for-powershell-tinkerers-tickets-256234994767"
-YouTubeId: "fobiuOfSqeQ"
+YouTubeId: ""
 ---
 
 **Breaking the Ice with Pester for PowerShell Tinkerers**
@@ -15,5 +15,3 @@ Feeling left behind as the rest of the PowerShell community dives deep into Pest
 
 The WinAdmins team is fortunate to have Adam return to us after the success of his last event, [GitHub Actions with a Focus on PowerShell](/events/2020-10-15-getting-powershell-code-into-prod-using-github-actions-adam-cook/).
 
-
-Feeling left behind as the rest of the PowerShell community dives deep into Pester? Come join Adam Cook who will demonstrate in live demos how to use Pester for PowerShell. No previous experience with Pester necessary!
