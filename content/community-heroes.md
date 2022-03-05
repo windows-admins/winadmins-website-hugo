@@ -11,12 +11,12 @@ The WinAdmins administrators team selected the first group of Community Heroes a
 
 Name|Since|Links
 -|-|-
-Adam Gross|2022-02|{{<weblink site="https://www.asquaredozen.com/">}} \| {{<twitter handle="adamgrosstx">}}
-Chris Dent|2022-02|{{<weblink site="https://www.amazon.com/kindle-dbs/entity/author/B0977W5272?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader">}}
+Adam Gross|2022-02|{{<weblink site="https://www.asquaredozen.com/">}} \| {{<twitter handle="adamgrosstx">}} \| {{<github username="adamgrosstx">}}
+Chris Dent|2022-02|{{<weblink site="https://www.amazon.com/kindle-dbs/entity/author/B0977W5272?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader">}} \| {{<github username="indented-automation">}}
 Chuck Lanctot|2022-02|
 Crom|2022-02|{{<twitter handle="cromnion_">}}
 Missy Quarry|2022-02|{{<twitter handle="msedgemissy">}} \| {{<linkedin name="melissaquarry">}}
-Timothy Watson|2022-02|{{<twitter handle="LMewinsky">}} \| {{<linkedin name="timothy-watson-8931b572">}} || {{<github username="LonicaMewinsky">}}
+Timothy Watson|2022-02|{{<twitter handle="LMewinsky">}} \| {{<linkedin name="timothy-watson-8931b572">}} \| {{<github username="LonicaMewinsky">}}
 
 ## Q & A
 
