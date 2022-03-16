@@ -5,4 +5,4 @@ draft: false
 aliases: ["/youtube/"]
 ---
 
-{{< jsredir site="https://www.youtube.com/channel/UCWZnxyqbwHbTu451glcUPhg" >}}
+{{< jsredir site="https://www.youtube.com/WinAdmins" >}}
