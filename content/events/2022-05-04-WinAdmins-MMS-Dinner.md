@@ -2,7 +2,6 @@
 Title: "WinAdmins MMS Conference Dinner (FULL)"
 EventStartUTC: 2022-05-04T11:45:00
 EventDuration: "4 Hours"
-YouTubeId: "R75AC-nTmKY"
 Private: True
 ---
 
