@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220425T201048Z
+UID:1650917402312-90539@ical.marudot.com
+DTSTART;TZID=America/New_York:20220504T194500
+DTEND;TZID=America/New_York:20220504T230000
+SUMMARY:WinAdmins Dinner (Group A)
+DESCRIPTION:Come join your WinAdmins brothers and sisters for dinner at Benihana's\, Mall of America Level 3. There will be four groups  at four separate tables spaced 15 minutes apart.\n\nThis is not a sponsored event! Diners will be responsible for their own check and should ensure that the waitstaff is aware during your ordering who should be on which check\, especially for the tables with a +1.
+LOCATION:Benihana's\, Mall of America\, Level 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:WinAdmins Dinner (Group A)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
