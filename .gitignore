@@ -2,3 +2,4 @@
 /resources
 /.vscode
 *.exe
+.hugo_build.lock
