@@ -10,6 +10,7 @@
 		<div class="posts-group">
 			<ul class="posts-list">
 				{{ range sort .Pages "Params.EventStartUTC" "desc" }}
+					{{ if not (eq .Params.Private true) }}
 					<li class="post-item">
 						<a href="{{.Permalink}}">
 							{{ $evtDate := (time .Params.EventStartUTC) }}
@@ -24,6 +25,7 @@
 							</span>			
 						</a>
 					</li>
+					{{ end }}
 				{{ end }}
 			</ul>
 		</div>
