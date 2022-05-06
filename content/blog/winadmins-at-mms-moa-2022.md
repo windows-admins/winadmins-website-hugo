@@ -6,7 +6,7 @@ Description: "WinAdmins @ MMS MOA 2022"
 
 Author: Chris Kibble
 
-This year at MMSMOA (Midwest Management Summit, Mall of America), the WinAdmins community had an incredible turnout of members who wanted to come socialize, share stores, and recall what it was like to be together before a global pandemic. Look no further than half of the room standing up when Adam Gross, on stage with our own Jóhannes, asked "How many of you here are from WinAdmins?" to realize how large we've grown in so few years.
+This year at MMSMOA (Midwest Management Summit, Mall of America), the WinAdmins community had an incredible turnout of members who wanted to come socialize, share stories, and recall what it was like to be together before a global pandemic. Look no further than half of the room standing up when Adam Gross, on stage with our own Jóhannes, asked "How many of you here are from WinAdmins?" to realize how large we've grown in so few years.
 
 I wanted to briefly share, and I believe the entire Admin and Moderator team agrees, the following sentiment.
 
