@@ -14,6 +14,6 @@ This community is fantastic. I don't know of anywhere else with so many people w
 
 During our WinAdmins dinner on May 4th, 2022, I stepped back and looked at 38 people across four tables laughing, hugging, sharing stories, and having fun. I can't quite put into words how it felt to be part of a group as magnificent as all of you are. I'm better as a person and I'm a better  employee because I know so many people have my back.
 
-And that's why those who run events, keep Discord going, moderator our community, and countless other activities in the name of WinAdmins do what we're doing. Because you're all just so amazing that not bringing you all together would be tragic.
+And that's why those who run events, keep Discord going, moderate our community, and countless other activities in the name of WinAdmins do what we're doing. Because you're all just so amazing that not bringing you all together would be tragic.
 
 From the bottom of my heart, and the hearts of so many who consider WinAdmins a home, thank you.
