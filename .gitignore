@@ -3,3 +3,4 @@
 /.vscode
 *.exe
 .hugo_build.lock
+*.md.bak
