@@ -2,13 +2,12 @@
 Title: "WinAdmins MMS Conference Dinner (FULL)"
 EventStartUTC: 2022-05-04T11:45:00
 EventDuration: "4 Hours"
-Private: True
+Private: False
 ---
 
 **WinAdmins MMS Dinner**
 
 We've got 4 tables on May 4th starting a 6:45pm.  The restaurant needed to space the reservations out a bit so that they had time to get a large group in and sat without 40 people showing up at once and also to make sure they could take care of each table.
-
 
 ---
 
