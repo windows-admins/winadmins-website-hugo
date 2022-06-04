@@ -17,3 +17,5 @@ During our WinAdmins dinner on May 4th, 2022, I stepped back and looked at 38 pe
 And that's why those who run events, keep Discord going, moderate our community, and countless other activities in the name of WinAdmins do what we're doing. Because you're all just so amazing that not bringing you all together would be tragic.
 
 From the bottom of my heart, and the hearts of so many who consider WinAdmins a home, thank you.
+
+{{< youtube nM6K9ndkvHQ >}}
