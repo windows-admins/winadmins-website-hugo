@@ -4,7 +4,7 @@ EventStartUTC: 2022-08-29T19:00:00
 EventDuration: "1 Hour"
 Speakers: ["Matt Philipenko","Bob Clements","Eric Wayne","Martin Nothnagel", "Amesh Mansukhani","Paul Bowden"]
 RegLink: "https://www.eventbrite.com/e/microsoft-365-apps-modern-management-with-the-office-rangers-ama-tickets-403644941887"
-YouTubeId: ""
+YouTubeId: "di-na7_Wo1o"
 ---
 
 **Microsoft 365 Apps Ask Us (The Microsoft Office Rangers!) Anything!**
