@@ -60,6 +60,7 @@ If you know of something that should be added, please feel free to submit a pull
 
 * [Adam the Automator](https://adamtheautomator.com/)
 * [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
+* [Call4Cloud - Rudy Ooms, MVP](https://call4cloud.nl/)
 * [Chocolatey](https://chocolatey.org/)
 * [Christopher Kibble’s Technical Ramblings](http://christopherkibble.com/)
 * [HeyZeus Tech](http://heyzeus.tech/)
@@ -83,6 +84,7 @@ If you know of something that should be added, please feel free to submit a pull
 
 * [AJF Tech Chatter - Windows Endpoint Management with ConfigMgr, Intune, PowerShell, and more](https://anthonyfontanez.com/)
 * [Automating Intune Enrolled Device Driver Updates (MSEndpointMgr)](https://msendpointmgr.com/2017/12/04/modern-management-automating-intune-enrolled-device-driver-updates/)
+* [Call4Cloud - Rudy Ooms](https://call4cloud.nl/)
 * [Intune.Training](https://intune.training/)
 * [Katy's Tech Blog](https://katystech.blog/category/intune/)
 * [Microsoft Intune Docs](https://docs.microsoft.com/intune)
