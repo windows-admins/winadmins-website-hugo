@@ -24,9 +24,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: NPM Clean Install
-        run: npm ci
-
       - name: Build
         run: hugo --minify
 
