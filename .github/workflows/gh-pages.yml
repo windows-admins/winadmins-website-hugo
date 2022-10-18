@@ -24,13 +24,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
-
       - name: NPM Clean Install
         run: npm ci
 
