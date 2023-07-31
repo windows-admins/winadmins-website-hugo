@@ -133,4 +133,5 @@ If you know of something that should be added, please feel free to submit a pull
 * [USA – Illinois – Far West Systems Management User Group (FWSMUG)](https://www.meetup.com/FWSMUG/)
 * [USA – Michigan – Michigan System Center User Group (MISCUG)](https://www.meetup.com/miscug/)
 * [USA – Michigan – West Michigan Systems Management User Group (WMISMUG)](https://wmismug.org/)
+* [USA - Minnesota - Twin Cities Systems Management User Group (TCSMUG)](https://tcsmug.org/)
 * [USA – North Carolina – Charlotte Systems Management User Group](https://www.meetup.com/CLT-System-Management-User-Group/)
